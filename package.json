@@ -1,0 +1,7 @@
+{
+  "name": "kestrel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Unified test management: CI results, manual test cases, release runs and sign-off.",
+  "scripts": { "dev": "tsx watch src/index.ts" }
+}
