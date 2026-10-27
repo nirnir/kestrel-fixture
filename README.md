@@ -4,8 +4,6 @@ Kestrel is our internal web app for test evidence. It brings automated test
 results and manual test cases together so every release has one traceable
 record of what was tested and who signed it off.
 
-> Test fixture for the Prodeology evaluation set. The product is fictional.
-
 ## Why
 
 Test evidence is scattered today:
